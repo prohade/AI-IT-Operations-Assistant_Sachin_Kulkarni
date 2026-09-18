@@ -123,7 +123,7 @@ with st.sidebar:
     st.code("My VPN keeps disconnecting. Please create a ticket. My employee ID is EMP1024.")
 
 st.title("🤖 AI IT Operations Assistant")
-st.caption("Stage 4 — Production polish + assessment-ready demonstration")
+st.caption("Agentic AI-Powered IT Support & Operations Assistant -(Capstone project done by Sachin Kulkarni for IIT Patna) ")
 
 st.markdown(
     "Ask a support question in natural language. The agent decides which local tool to use, "
